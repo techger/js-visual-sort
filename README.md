@@ -1,4 +1,5 @@
 js-visual-sort
+
 http://wayne-stewart.github.io/js-visual-sort/
 
 This is a project to help visualize the way sorting algorithms work. 
